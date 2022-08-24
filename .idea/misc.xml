@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/drawable/cv.xml" value="0.135" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/font/font.xml" value="0.1" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_salary.xml" value="0.33" />
+        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_splash.xml" value="0.22" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/font/font.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
