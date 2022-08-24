@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
+import com.example.prisoners_new.main_board.Main;
+
 public class SplashActivity extends AppCompatActivity {
 
     @Override
@@ -17,10 +19,10 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent mainIntent = new Intent(getApplicationContext(), MainActivity.class);
+                Intent mainIntent = new Intent(getApplicationContext(), Main.class);
                 startActivity(mainIntent);
                 finish();
             }
-        }, 3000);
+        }, 2000);
     }
 }

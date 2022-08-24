@@ -3,15 +3,33 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/drawable/cv.xml" value="0.135" />
-        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/font/font.xml" value="0.1" />
-        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_salary.xml" value="0.33" />
-        <entry key="..\:/Users/admin/Desktop/Prisoners_new/app/src/main/res/layout/activity_splash.xml" value="0.22" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable/ic_menu_camera.xml" value="0.201" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.201" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.201" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/drawable/side_nav_bar.xml" value="0.124" />
         <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/font/font.xml" value="0.23333333333333334" />
-        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_report.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_salary.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_splash.xml" value="0.14" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/activity_statistic.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/app_bar_main.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/content_main.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_Logout.xml" value="0.1" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_about.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_conditions.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_connect.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_gallery.xml" value="0.33" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_home.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_logout.xml" value="0.1774262505344164" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/fragment_slideshow.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/main.xml" value="0.335042735042735" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/nav_header_main.xml" value="0.2707774798927614" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/layout/test.xml" value="0.22" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/menu/activity_main_drawer.xml" value="0.9" />
+        <entry key="..\:/Users/ibn baz/AndroidStudioProjects/Prisoners_new/app/src/main/res/menu/main_drawer.xml" value="0.5" />
       </map>
     </option>
   </component>

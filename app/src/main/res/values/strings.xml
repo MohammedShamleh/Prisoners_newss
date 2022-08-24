@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">أسرانا الأحرار</string>
     <string name="intro">وزارة الأسرى والمحررين</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_About_the_app">عن التطبيق</string>
+    <string name="menu_conditions">الشروط والأحكام</string>
+    <string name="menu_connect">تواصل معنا</string>
+    <string name="menu_Log_out">تسجيل الخروج</string>
 </resources>
