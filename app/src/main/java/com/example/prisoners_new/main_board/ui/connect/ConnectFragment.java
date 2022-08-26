@@ -10,18 +10,18 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.prisoners_new.databinding.FragmentConnectBinding;
+ import com.example.prisoners_new.databinding.FragmentConnectsBinding;
 
 public class ConnectFragment extends Fragment {
 
-    private FragmentConnectBinding binding;
+    private FragmentConnectsBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         ConnectViewModel galleryViewModel =
                 new ViewModelProvider(this).get(ConnectViewModel.class);
 
-        binding = FragmentConnectBinding.inflate(inflater, container, false);
+        binding = FragmentConnectsBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
         final TextView textView = binding.textGallery;
